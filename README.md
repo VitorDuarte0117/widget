@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+# Widget application that will include multiple components. These components will be:
+An Accordion component;
+A Wikipedia API search component;
+A Dropdown item selection component;
+Google Translate API component
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,9 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# Widget application that will include multiple components. These components will be:
-An Accordion component;
-A Wikipedia API search component;
-A Dropdown item selection component;
-Google Translate API component
+
 >>>>>>> 7fc93259b0072ac9b29f2f30c961e7c45cb55b02
